@@ -7,7 +7,7 @@ A sleeper build. Stock exterior. Everything else is a different conversation.
 Entry-level. Daily driveable. Reliable. Saab turbo heart, reinforced bones,
 mechanical over electronic where it counts.
 
-→ [Tier 1 Build Docs](740-tier-1/)
+→ [Tier 1 Build Docs](specs/tier-1-description.md)
 
 ## Beyond Tier 1
 
