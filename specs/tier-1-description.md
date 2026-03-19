@@ -16,7 +16,7 @@ Tier 1 is a practical, daily-driveable upgrade path focused on reliability and f
 - Custom front subframe designed for improved strength, handling, and precise fitment of the Saab B204/B234 turbo engine and Volvo M90 gearbox
 - Rear axle reinforcement plates (Förstärkningsplåtar bakaxel) for added durability under load
 - Dividing wall (mellanväggar) doubles as roll cage base for increased chassis rigidity and safety
-- All frame enhancements are designed for CNC manufacturing (see [CNC Wishlist](../cnc/wishlist.md))
+- All frame enhancements are designed for CNC manufacturing (see [CNC Wishlist](../parts/CNC-wishlist.md))
 - Follows standards and best practices as detailed in [volvo-740-subframe-standards.md](../volvo-740-subframe-standards.md)
 - Retains compatibility with stock suspension geometry
 
